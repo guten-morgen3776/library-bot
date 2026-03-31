@@ -1,0 +1,5 @@
+requests==2.32.5
+beautifulsoup4==4.14.3
+line-bot-sdk==3.12.0
+google-cloud-secret-manager==2.20.0
+python-dotenv==1.2.1
